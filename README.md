@@ -1,5 +1,5 @@
 # The-Colour-Guessing-Game
-This is a basic color guessing game in which you are given the RGB values of the colors and you are supposed to guess the color from the given options.
+This is a basic colour guessing game in which you are given the RGB values of the colors and you are supposed to guess the color from the given options.
 
 ## Built With :
 
